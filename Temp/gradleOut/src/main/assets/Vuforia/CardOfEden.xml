@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BoxTop" size="0.288000 0.490980" />
+    <ImageTarget name="EXTREME" size="0.057150 0.082496" />
+    <ImageTarget name="MEDIUM" size="0.057150 0.082496" />
+    <ImageTarget name="BASIC" size="0.057150 0.082496" />
+  </Tracking>
+</QCARConfig>

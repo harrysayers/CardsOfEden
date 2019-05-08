@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B3096083-9F54-62EF-1AFE-25BECBB77B88}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/settings.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameMode.cs" Line="70" Column="35" />
+      <File FileName="Assets/Scripts/SceneSwitcher.cs" Line="28" Column="36" />
+      <File FileName="Assets/Scripts/settings.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ArScene.cs" Line="52" Column="11" />
+      <File FileName="Assets/Scripts/SpinBottle.cs" Line="36" Column="14" />
+      <File FileName="Assets/Scripts/Parallaxing.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GetQuestions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
